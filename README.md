@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**siribillakanti/siribillakanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hello, I'm Siri.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building things, figuring things out. ✿
+
+*Computer Science student · Developer · Curious by nature*
+
+I'm a Computer Science student who enjoys exploring how things work,  
+solving problems and turning curious ideas into working projects.
+
+[LinkedIn](https://www.linkedin.com/in/siri-billakanti-0b798a384/) · [Portfolio](YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
