@@ -1,16 +1,15 @@
 
-<div align="center">
+<div align="left">
 
 # Hello, I'm Siri.
 
-### Building things, figuring things out. ✿
+### Where curiosity meets code.
 
-*Computer Science student · Developer · Curious by nature*
+Computer Science student at **KL University**, interested in software engineering, algorithms and creative technology.
 
-I'm a Computer Science student who enjoys exploring how things work,  
-solving problems and turning curious ideas into working projects.
+**DEVELOPER** · **CS STUDENT** · **CURIOUS MIND**
 
-[LinkedIn](https://www.linkedin.com/in/siri-billakanti-0b798a384/) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/siri-billakanti-0b798a384/) · [My repositories](https://github.com/siribillakanti?tab=repositories)
 
 </div>
 
