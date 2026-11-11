@@ -3,49 +3,34 @@
 
 <h1>˗ˏˋ hello, i'm Siri! ˎˊ˗</h1>
 
-<h2>where curiosity meets code ✿</h2>
+<h3>where curiosity meets code ✿</h3>
 
-a little corner of the internet where I share things I build,
-ideas I explore and things I learn along the way.
+<p>a little corner of the internet where I share things I build, ideas I explore and things I learn along the way.</p>
 
-<br>
+<p>✦ ˚ ☾ ˚ ✧ ━━━━━━━ ✿ ━━━━━━━ ✧ ˚ ☽ ˚ ✦</p>
 
-✦　˚　☾　˚　✧ ━━━━━━━ ✿ ━━━━━━━ ✧　˚　☽　˚　✦
+<p><strong>୨୧ a little about me</strong></p>
 
-<br>
+<p>CS student, creative thinker and someone who enjoys exploring the intersection of logic and imagination.<br>
+From experimenting with algorithms to building applications, I'm always curious about how things work.</p>
 
-<h2>୨୧ a little about me</h2>
+<p>✧ ━━━━━━━━━ ☾ ━━━━━━━━━ ✧</p>
 
-CS student, creative thinker and someone who enjoys exploring
-the intersection of logic and imagination.
+<p><strong>☾ currently curious about ✦</strong></p>
 
-From experimenting with algorithms to building applications,
-I'm always curious about how things work.
+<p>
+<strong>AI & Generative AI</strong>　✿　<strong>Data Structures & Algorithms</strong><br>
+<strong>Software Engineering</strong>　✿　<strong>Cloud Computing</strong><br>
+<strong>Computer Networks</strong>　✿　<strong>Backend Development</strong>
+</p>
 
-<br>
+<p>✦ ━━━━━━━━━ ☾ ━━━━━━━━━ ✦</p>
 
-✧ ━━━━━━━━━ ☾ ━━━━━━━━━ ✧
+<p><strong>✿ things i've been making</strong></p>
 
-<h2>☾ currently curious about ✦</h2>
+<p>A collection of projects, experiments and ideas brought to life through code.</p>
 
-**AI & Generative AI**　✿　**Data Structures & Algorithms**
-
-**Software Engineering**　✿　**Cloud Computing**
-
-**Computer Networks**　✿　**Backend Development**
-
-<br>
-
-✦ ━━━━━━━━━ ☾ ━━━━━━━━━ ✦
-
-<h2>✿ things i've been making</h2>
-
-A collection of projects, experiments and ideas
-brought to life through code.
-
-<br>
-
-⋆｡˚ ☁︎ ˚｡⋆　✧　⋆｡˚ ☾ ˚｡⋆
+<p>⋆｡˚ ☁︎ ˚｡⋆　✧　⋆｡˚ ☾ ˚｡⋆</p>
 
 <h3>thanks for stopping by ♡</h3>
 
